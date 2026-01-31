@@ -1,0 +1,3 @@
+version=6.5
+ota_enabled=0
+firmware_url=
