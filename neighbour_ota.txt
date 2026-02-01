@@ -1,3 +1,3 @@
-version=6.9.1
-ota_enabled=0
-firmware_url=https://github.com/bcrRduno88/neighbour_ota/releases/download/v6.9.1/Neighbour_V_6_9_1.ino.bin
+version=6.9.2
+ota_enabled=1
+firmware_url=https://github.com/bcrRduno88/neighbour_ota/releases/download/v6.9.2/Neighbour_V_6_9_2.ino.bin
