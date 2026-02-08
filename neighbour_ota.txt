@@ -1,3 +1,3 @@
 version=6.9.7
-ota_enabled=1
+ota_enabled=0
 firmware_url=https://github.com/bcrRduno88/neighbour_ota/releases/download/v6.9.7/Neighbour_V_6_9_7.ino.bin
